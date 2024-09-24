@@ -1,0 +1,4 @@
+kafka:
+  topics: my_topic
+  consumer:
+    auto-offset-reset: latest
